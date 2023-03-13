@@ -8,4 +8,4 @@
 
 # Datos
 
-Los datos usados en el proyecto viene de un dataset encontrado en la pestaña de Datasets de Kaggle, el enlace del dataset es https://www.kaggle.com/datasets/justdhia/fifa-players
+Los datos usados en el proyecto viene de un dataset encontrado en la pestaña de Datasets de Kaggle, el enlace del dataset es https://www.kaggle.com/datasets/justdhia/fifa-players?select=2021.csv
